@@ -63,6 +63,7 @@ p {
     color: var(--color5);
     padding-top: 41px;
     padding-bottom: 32px;
+    line-height: 25px;
 }
 
 button {
