@@ -1,0 +1,13 @@
+@media (min-width: 950px) {
+
+    .container {
+        width: 900px;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    p {
+        padding-top: 30px;
+        padding-bottom: 90px;
+    }
+}
